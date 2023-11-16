@@ -1,0 +1,10 @@
+  237  git status
+  238  git diff
+  239  git restore --staged ingredients.txt   
+  240  git diff
+  241  git add .
+  242  git diff
+  243  git diff --staged
+  244  git commit -m 'sauce almost complete'
+  245  history | tail
+  246  history | tail > 20231116_itWorked.txt
